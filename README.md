@@ -4,7 +4,6 @@
 
 <img width="30.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MduduziMlilo&layout=compact"/>  
 
-
 <p align="left">
   <a href="http://twitter.com/SeaOatter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&color=plum" alt="Sea Oatter's Twitter"/>

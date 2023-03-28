@@ -1,4 +1,6 @@
-### Hi there 👋
+![Mduduzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mduduzimlilo&show_icons=true&theme=radical)
+
+
 
 <!--
 **mduduzimlilo/mduduzimlilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

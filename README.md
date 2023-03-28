@@ -1,6 +1,6 @@
 <!-- ![Mduduzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MduduziMlilo&show_icons=true&theme=radical) -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MduduziMlilo&show_icons=true&theme=radical"/>
+<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?username=MduduziMlilo&show_icons=true&theme=radical"/>
 
 <img width="30.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MduduziMlilo&layout=compact"/>  
 

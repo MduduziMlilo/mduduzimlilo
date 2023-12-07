@@ -2,6 +2,8 @@
 
 <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?username=MduduziMlilo&show_icons=true&theme=radical"/>
 
+<img width="30.5%" src="https://github-readme-stats.vercel.app/api?username=PyMath-Projects&show_icons=true&theme=radical"/>
+
 <img width="30.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MduduziMlilo&layout=compact"/>  
 
 <p align="left">
